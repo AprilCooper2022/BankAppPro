@@ -1,2 +1,2 @@
-# BankAppPro
+# BankingApplicationProject
 My Capstone Project
